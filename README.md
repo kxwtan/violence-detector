@@ -1,1 +1,1 @@
-"# Violence Detector" 
+# Violence Detector
